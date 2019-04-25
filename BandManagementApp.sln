@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandManagementApp.Entities", "Entities\BandManagementApp.Entities.csproj", "{09E79972-A222-444B-ADBF-1AB26F81B5D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E79972-A222-444B-ADBF-1AB26F81B5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E79972-A222-444B-ADBF-1AB26F81B5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E79972-A222-444B-ADBF-1AB26F81B5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E79972-A222-444B-ADBF-1AB26F81B5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C00DE21-3371-4674-AABD-D45149C68947}
+	EndGlobalSection
+EndGlobal
